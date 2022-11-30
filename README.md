@@ -38,6 +38,7 @@ Using what we know about javascript, we're going to build a simple calculator ap
 
 - Brackets don't work.
 - I couldn't realise the bonus
+- I will do new features
 
 
 
